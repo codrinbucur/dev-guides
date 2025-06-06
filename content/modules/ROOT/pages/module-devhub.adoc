@@ -57,7 +57,7 @@ git checkout -b new-gen-ai-service
 
 ==== Get started with live coding
 
-Before you start coding, you need to start with the *Quarkus Dev Mode* that is a powerful feature to significantly speed up the development lifecycle of Quarkus applications. It provides hot reload capabilitiesn (Live Coding), allowing you to see the results of your code changes instantly without requiring a full application restart.
+Before you start coding, you need to start with the *Quarkus Dev Mode* that is a powerful feature to significantly speed up the development lifecycle of Quarkus applications. It provides hot reload capabilities (Live Coding), allowing you to see the results of your code changes instantly without requiring a full application restart.
 
 Run the following command in the VS Code terminal to start Quarkus Dev Mode.
 
